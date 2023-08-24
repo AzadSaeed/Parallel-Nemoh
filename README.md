@@ -8,6 +8,7 @@ S. Azad, D. R. Herber. *Concurrent Probabilistic Control Co-Design and Layout Op
 
 
 **Primary contributor**: Dr. Saeed Azad
-**Email**: saeed.azad@colostate.edu
-https://github.com/AzadSaeed/Parallel-Nemoh
 
+**Email**: saeed.azad@colostate.edu
+
+https://github.com/AzadSaeed/Parallel-Nemoh
