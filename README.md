@@ -7,7 +7,7 @@ This code entails a demonstration of performing multiple runs for a simple cylin
 S. Azad, D. R. Herber. *Concurrent Probabilistic Control Co-Design and Layout Optimization of Wave Energy Converter Farms using Surrogate Modeling.* In ASME 2023 International Design Engineering Technical Conferences, DETC2023-116896, Boston, MA, USA, Aug 2023. [PDF]([https://www.example.com](https://arxiv.org/pdf/2308.06418.pdf))
 
 
-% Primary contributor: Dr. Saeed Azad
-% Email: saeed.azad@colostate.edu
-% https://github.com/AzadSaeed/Parallel-Nemoh
+**Primary contributor**: Dr. Saeed Azad
+**Email**: saeed.azad@colostate.edu
+https://github.com/AzadSaeed/Parallel-Nemoh
 
